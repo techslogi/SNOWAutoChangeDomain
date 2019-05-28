@@ -1,8 +1,10 @@
 // ==UserScript==
 // @name         SNOW Auto change domain
 // @namespace    http://tampermonkey.net/
-// @version      1.0
+// @version      1.1
 // @description  With the implementation of domains within SNOW, this aims to automatically change it.
+// @updateURL    https://github.com/techslogi/SNOWAutoChangeDomain/raw/master/SNOW%20Auto%20change%20domain.user.js
+// @downloadURL	 https://github.com/techslogi/SNOWAutoChangeDomain/raw/master/SNOW%20Auto%20change%20domain.user.js
 // @author       Gabriel Vicente & Luan Purceno
 // @grant        GM_notification
 // @require      http://code.jquery.com/jquery-3.3.1.min.js
